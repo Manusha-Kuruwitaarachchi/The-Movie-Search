@@ -22,7 +22,5 @@ A modern React application for searching and browsing movies using The Movie Dat
 - **CSS** (custom styling)
 - **Vite** or **Create React App** (depending on what you used)
 
----
 
-## 📁 Project Structure
 
